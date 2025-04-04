@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "714106175491",
+    "project_id": "asistencia-qr-68c24",
+    "storage_bucket": "asistencia-qr-68c24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714106175491:android:3399fa0408ea41696fce36",
+        "android_client_info": {
+          "package_name": "com.example.asistencia_qr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714106175491-5fiaig4ib8kdi7d3dgvobio2kd2d13ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnC5PpQvdmUgmciIfxxeW1lr2g82z8lyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714106175491-3dnqkn3273akn30h6ij73ij2nm3nue5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714106175491-b906si7pcfpf2jqp6l1poiu6lm274hd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asistenciaQr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
